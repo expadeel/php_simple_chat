@@ -1,0 +1,34 @@
+Thank you for downloading the PHP chat script. This file contains all the information you need to get started with the script and customize it to meet your specific needs.
+
+Installation:
+
+Copy all the files to your website's root directory.
+Create a new MySQL database and import the "chat.sql" file.
+Edit the "config.php" file with your database credentials and other configuration options.
+You're ready to go! 
+
+Configuration:
+
+The "config.php" file contains all the configuration options for the script. Here's a brief overview of each option:
+
+    $servername: The name of the MySQL server.
+    $username: The username for accessing the MySQL database.
+    $password: The password for accessing the MySQL database.
+    $dbname: The name of the MySQL database.
+    $table_users: The name of the MySQL table for storing user information.
+    $table_messages: The name of the MySQL table for storing message history.
+    $session_time: The length of time in seconds that a session should last.
+    $max_messages: The maximum number of messages to display in a chat room.
+    $max_rooms: The maximum number of chat rooms to create.
+
+Customization:
+
+The PHP chat script is fully customizable to meet your specific needs. Here are some suggestions for customization:
+
+Modify the CSS file to change the look and feel of the chat application.
+Add new features such as file sharing or emoji support.
+Integrate the chat system with an existing user authentication system.
+
+Support:
+
+If you have any questions or encounter any issues while using the PHP chat script, please feel free to contact us at support@crimaz.com. We will do our best to assist you as quickly as possible.
