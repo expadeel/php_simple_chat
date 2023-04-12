@@ -17,9 +17,6 @@ The "config.php" file contains all the configuration options for the script. Her
     $dbname: The name of the MySQL database.
     $table_users: The name of the MySQL table for storing user information.
     $table_messages: The name of the MySQL table for storing message history.
-    $session_time: The length of time in seconds that a session should last.
-    $max_messages: The maximum number of messages to display in a chat room.
-    $max_rooms: The maximum number of chat rooms to create.
 
 Customization:
 
